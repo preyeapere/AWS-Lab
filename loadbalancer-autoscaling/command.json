@@ -1,0 +1,11 @@
+create a load balancer
+Name of load balancer-server-ALB
+select VPC for both server
+Select subnet for both server
+select Security group for both servers
+create a target group server-TG
+register both Target Group
+Move back to your load balance to check if your target group is available
+check health status of target group if heathy
+Copy DNS name and paste of browser
+refresh to see between server 1 and server 2
